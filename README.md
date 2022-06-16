@@ -6,6 +6,8 @@ All about me! come see all the wonderful things I can do
 
 I am a software engineer I like playing around with code seeing all the endless possibilities that can be done with web developement and gaming. I want to work with a company that will allow me to use my experience and curiousity to make things new and improved. To be able to help out in some project that might need a fresh new perspective.
 
+https://thunderous-dragon-44820b.netlify.app/
+
 ## How its made:
 **Tech Used: HTML, CSS
 
